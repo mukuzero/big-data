@@ -1,11 +1,11 @@
 import cx_Oracle
 
 # Connection details
-username = "c##hr"
-password = "hr1"
-host = '34.134.232.252'
-port = '1521'
-service = 'ORCLCDB'
+username = ""
+password = ""
+host = ''
+port = ''
+service = ''
 
 dsn =f"{host}:{port}/{service}"
 # query="ALTER SESSION SET NLS_DATE_FORMAT = 'YYYY-MM-DD'"
