@@ -1,0 +1,21 @@
+adult,genre_ids,id,original_language,title,release_date,vote_count
+False,"[18, 80]",278,en,The Shawshank Redemption,1994-09-23,26443
+False,"[18, 80]",238,en,The Godfather,1972-03-14,20077
+False,"[18, 80]",240,en,The Godfather Part II,1974-12-20,12109
+False,"[18, 36, 10752]",424,en,Schindler's List,1993-12-15,15515
+False,[18],389,en,12 Angry Men,1957-04-10,8356
+False,"[35, 18, 10749]",19404,hi,Dilwale Dulhania Le Jayenge,1995-10-20,4404
+False,"[16, 10751, 14]",129,ja,Spirited Away,2001-07-20,16109
+False,"[18, 28, 80, 53]",155,en,The Dark Knight,2008-07-16,32201
+False,"[35, 53, 18]",496243,ko,Parasite,2019-05-30,17746
+False,"[14, 18, 80]",497,en,The Green Mile,1999-12-10,16980
+False,"[16, 10749, 18]",372058,ja,Your Name.,2016-08-26,11093
+False,"[53, 80]",680,en,Pulp Fiction,1994-09-10,27353
+False,"[12, 14, 28]",122,en,The Lord of the Rings: The Return of the King,2003-12-01,23618
+False,"[35, 18, 10749]",13,en,Forrest Gump,1994-06-23,26870
+False,[37],429,it,"The Good, the Bad and the Ugly",1966-12-22,8367
+False,"[18, 80]",769,en,GoodFellas,1990-09-12,12543
+False,"[16, 18, 10752]",12477,ja,Grave of the Fireflies,1988-04-16,5315
+False,"[10751, 18]",667257,es,Impossible Things,2021-06-17,379
+False,"[28, 18]",346,ja,Seven Samurai,1954-04-26,3550
+False,"[35, 18]",637,it,Life Is Beautiful,1997-12-20,12799

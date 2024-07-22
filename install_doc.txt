@@ -1,0 +1,3 @@
+https://www.geeksforgeeks.org/how-to-install-mysql-workbench-on-ubuntu/
+
+https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli

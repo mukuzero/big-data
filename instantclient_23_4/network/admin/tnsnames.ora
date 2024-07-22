@@ -1,0 +1,8 @@
+host =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST =34.134.232.252 )(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = ORCLCDB)
+    )
+  )

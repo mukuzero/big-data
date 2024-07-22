@@ -1,0 +1,12 @@
+1) You can start the mongod process by issuing the following command:
+    sudo systemctl start mongod
+2) Verify that MongoDB has started successfully.
+    sudo systemctl status mongod
+
+3) Stop MongoDB.
+    sudo systemctl stop mongod
+
+---Mongo GUI
+
+1) Start MongoDB Compass
+    mongodb-compass
